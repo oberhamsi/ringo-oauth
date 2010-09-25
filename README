@@ -1,0 +1,5 @@
+# Ringo OAuth
+
+Dealing with OAuth 1.0a in ringo webapps.
+
+Requires ringo-signpost

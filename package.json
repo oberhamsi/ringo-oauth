@@ -1,0 +1,10 @@
+{
+    "name": "ringo-oauth",
+    "version": "0.1",
+    "description": "Oauth Core 1.0a webapp helpers.",
+    "author": "Simon Oberhammer <simon@nekapuzer.at>",
+    "jars": [
+        "jars/signpost-core.jar",
+        "jars/signpost-jetty7.jar",
+    ]
+}
