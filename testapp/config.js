@@ -2,7 +2,7 @@ var oAuthConfig = exports.oAuthConfig = {
     protectedPaths: ['/'],
     consumer: {
         key: 'gmZfYHVNwFQdbmtSG8VBlQ',
-        secret: 'uTMYmDxx9Y5CpmV7or0zMydoMihOGq17SVJujo8UG0Q',
+        secret: '',
     },
     provider: {
         name: 'Twitter',
